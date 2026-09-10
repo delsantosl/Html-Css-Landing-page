@@ -47,9 +47,10 @@ header {
   padding: 60px 40px;
 }
 
-.principalcontent div:first-child {
-  width: 45%;
+.principalcontent div{
+  width: 48%;
 }
+
 
 .principalcontent h2 {
   font-size: 38px;
@@ -74,9 +75,6 @@ header {
   margin-top: 10px;
 }
 
-.principalcontent div:last-child {
-  width: 50%;
-}
 
 .services {
   display: flex;
